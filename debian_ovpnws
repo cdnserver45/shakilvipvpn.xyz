@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='66.45.251.234';
-USER='kingofon_shakilvipvpn';
-PASS='yQ*FwfuV#zhd';
-DBNAME='kingofon_shakilvipvpn';
+HOST='162.250.121.69';
+USER='digitelp_shakilvipvpn';
+PASS='@@@@Digrr4itel123';
+DBNAME='digitelp_shakilvipvpn';
 PORT_TCP='1194';
 PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
