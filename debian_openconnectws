@@ -1,3 +1,11 @@
+#!/bin/bash
+#Script Variables
+HOST='162.250.121.69';
+USER='digitelp_shakilvipvpn';
+PASS='@@@@Digrr4itel123';
+DBNAME='digitelp_shakilvipvpn';
+PORT_TCP='1194';
+PORT_UDP='1194';
 
 timedatectl set-timezone Asia/Riyadh
 install_require () {
